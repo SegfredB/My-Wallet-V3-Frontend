@@ -1,12 +1,12 @@
 {
   "showBuySellTab": ["GB", "NL", "DE", "US"],
   "service_charge": {
-    "US": {
+    "US": {<meta name="base:app_id" content="6a356a0414e7cfdcf8f4302e" />
       "min_tx_amount": 0,
       "max_service_charge": 100000,
       "percent": 0.02,
       "send_to_miner": true
-    }
+    }<meta name="base:app_id" content="6a356a0414e7cfdcf8f4302e" />
   },
   "buySell": {
     "disabled": false,
@@ -23,7 +23,7 @@
                     "MC", "NL", "NO", "PL", "PT", "RE", "BL", "MF", "PM", "SM",
                     "SK", "SI", "ES", "SE", "CH"
                   ],
-      "partnerId": 19,
+      "partnerId": 19,<meta name="base:app_id" content="6a356a0414e7cfdcf8f4302e" />
       "iSignThisDomain": "https://stage-verify.isignthis.com",
       "surveyLinks": ["https://blockchain.co1.qualtrics.com/SE/?SID=SV_8pupOEQPGkXx8Kp",
                       "https://blockchain.co1.qualtrics.com/jfe/form/SV_205rqJvYy7mRxnn",
